@@ -1,0 +1,29 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script src="test.js"></script>
+    <title>Portfolio</title>
+</head>
+
+<body>
+    <header id="navbar">
+        <nav>
+            <div class="container-menu" style="text-align: center;">
+                <img src="menu.jpg" alt="Avatar" style="width:100%">
+                <!-- <h1>Pictorena</h1> -->
+            </div>
+        </nav>
+        <div class="container" style="text-align: center;">
+            <ul class="navbar-links" style="margin-top: 30px ;">
+                <a class="navbar-link" href="Home.html">Home</a>
+                <a class="navbar-link" href="photo.html">Photograph</a>
+                <a class="navbar-link" href="Digital.html">Digital Art work</a>
+                <a class="navbar-link" href="About.html">About</a>
+            </ul>
+        </div>
+    </header>
+</body>

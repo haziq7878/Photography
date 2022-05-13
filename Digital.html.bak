@@ -1,0 +1,149 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css" type="text/css">
+    <script src="test.js"></script>
+    <title>Portfolio</title>
+</head>
+
+<body>
+    <header id="navbar">
+        <nav>
+            <div class="container-menu" style="text-align: center;">
+                <img src="menu.jpg" alt="Avatar" style="width:100%">
+            </div>
+        </nav>
+        <div class="container" style="text-align: center;">
+            <ul class="navbar-links" style="margin-top: 30px ;">
+                <a class="navbar-link" href="Home.html">Home</a>
+                <a class="navbar-link" href="photo.html">Photograph</a>
+                <a class="navbar-link" href="Digital.html">Digital Art work</a>
+                <a class="navbar-link" href="About.html">About</a>
+            </ul>
+        </div>
+		
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/digitalArt/art2.png" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/digitalArt/art3.png" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/digitalArt/art4.png" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/digitalArt/art5.png" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/digitalArt/art6.png" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/digitalArt/art7.png" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/digitalArt/art8.png" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/digitalArt/art9.png" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/digitalArt/art10.png" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/digitalArt/art11.png" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/digitalArt/art12.png" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/digitalArt/art13.png" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>

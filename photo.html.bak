@@ -1,0 +1,56 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script src="test.js"></script>
+    <title>Portfolio</title>
+</head>
+
+<body>
+    <header id="navbar">
+        <nav>
+            <div class="container-menu" style="text-align: center;">
+                <img src="menu.jpg" alt="Avatar" style="width:100%">
+            </div>
+        </nav>
+        <div class="container" style="text-align: center;">
+            <ul class="navbar-links" style="margin-top: 30px ;">
+                <a class="navbar-link" href="Home.html">Home</a>
+                <a class="navbar-link" href="photo.html">Photograph</a>
+                <a class="navbar-link" href="Digital.html">Digital Art work</a>
+                <a class="navbar-link" href="About.html">About</a>
+            </ul>
+        </div>
+        <div class="container_body">
+            <div class="row">
+                <div class="column">
+                    <a href="sky.html">
+                        <div class="card">
+                            <img src="Images/Sky/sky1.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>Sky</b></h4>
+                                <!-- <p>Architect & Engineer</p> -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="column">
+                    <a href="Landscape.html">
+                    <div class="card">
+                        <img src="Images/landscape/landscape11.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            <!-- <p>Architect & Engineer</p> -->
+                        </div>
+                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+
+</html>

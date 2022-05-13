@@ -1,0 +1,168 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script src="test.js"></script>
+    <title>Portfolio</title>
+</head>
+
+<body>
+    <header id="navbar">
+        <nav>
+            <div class="container-menu" style="text-align: center;">
+                <img src="menu.jpg" alt="Avatar" style="width:100%">
+            </div>
+        </nav>
+        <div class="container" style="text-align: center;">
+            <ul class="navbar-links" style="margin-top: 30px ;">
+                <a class="navbar-link" href="Home.html">Home</a>
+                <a class="navbar-link" href="photo.html">Photograph</a>
+                <a class="navbar-link" href="Digital.html">Digital Art work</a>
+                <a class="navbar-link" href="About.html">About</a>
+            </ul>
+        </div>
+        <div class="container_body">
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/landscape/landscape6.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/landscape/landscape11.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/landscape/landscape8.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/landscape/landscape9.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/landscape/landscape15.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/landscape/landscape4.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/landscape/landscape12.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/landscape/landscape3.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/landscape/landscape2.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/landscape/landscape10.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/landscape/landscape14.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/landscape/landscape13.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row">
+                <div class="column">
+                        <div class="card">
+                            <img src="Images/landscape/landscape5.jpg" alt="Avatar" style="width:100%">
+                            <div class="container">
+                                <h4><b>landscape</b></h4>
+                                
+                            </div>
+                        </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="Images/landscape/landscape1.jpg" alt="Avatar" style="width:100%">
+                        <div class="container">
+                            <h4><b>landscape</b></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
